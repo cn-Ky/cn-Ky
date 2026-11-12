@@ -4,4 +4,4 @@ Can K.
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,scss,javascript,nodejs,react,nextjs,typescript,tauri,electron,appwrite,cs)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,scss,javascript,nodejs,react,nextjs,typescript,tauri,electron,supabase,appwrite,cs)
