@@ -18,7 +18,7 @@
 </p>
 
 <!-- Skill Icons'da bulamadığın diğer araçları aşağıdaki gibi Shields.io rozetleriyle kolayca ekleyebilirsin -->
-#### Other Tools & Libraries *(Örnek — kendi araçlarınla güncelleyebilirsin)*
+#### Other Tools & Libraries
 <p align="left">
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Vite" />
