@@ -9,21 +9,32 @@
 
 #### Frontend & Styling
 <p align="left">
-  <img src="https://skillicons.dev" alt="Frontend Skills" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Sass" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Tailwind CSS" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="TypeScript" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Next.js" />
 </p>
 
 #### Backend, BaaS & Desktop
 <p align="left">
-  <img src="https://skillicons.dev" alt="Backend and Desktop Skills" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Node.js" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="C#" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Tauri" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Electron" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Supabase" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Appwrite" />
 </p>
 
-<!-- Skill Icons'da bulamadığın diğer araçları aşağıdaki gibi Shields.io rozetleriyle kolayca ekleyebilirsin -->
 #### Other Tools & Libraries
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Vite" />
-  <img src="https://shields.io" alt="Prisma" />
-  <img src="https://shields.io" alt="Docker" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Git" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Vite" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Prisma" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Docker" />
 </p>
 
 ---
